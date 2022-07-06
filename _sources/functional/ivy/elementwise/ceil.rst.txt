@@ -2,10 +2,6 @@ ceil
 ====
 
 .. autofunction:: ivy.functional.ivy.elementwise.ceil
-
-.. autofunction:: ivy.array.array_methods.ceil
-
-.. autofunction:: ivy.container.container_methods.ceil
 |
 | **Supported Frameworks:**
 

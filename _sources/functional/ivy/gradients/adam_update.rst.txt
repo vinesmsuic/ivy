@@ -2,10 +2,6 @@ adam_update
 ===========
 
 .. autofunction:: ivy.functional.ivy.gradients.adam_update
-
-.. autofunction:: ivy.container.container_methods.static_adam_update
-
-.. autofunction:: ivy.container.container_methods.adam_update
 |
 | **Supported Frameworks:**
 

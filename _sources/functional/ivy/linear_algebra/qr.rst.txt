@@ -2,8 +2,6 @@ qr
 ==
 
 .. autofunction:: ivy.functional.ivy.linear_algebra.qr
-
-.. autofunction:: ivy.array.array_methods.qr
 |
 | **Supported Frameworks:**
 

@@ -2,10 +2,6 @@ remainder
 =========
 
 .. autofunction:: ivy.functional.ivy.elementwise.remainder
-
-.. autofunction:: ivy.array.array_methods.remainder
-
-.. autofunction:: ivy.container.container_methods.remainder
 |
 | **Supported Frameworks:**
 

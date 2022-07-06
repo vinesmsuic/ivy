@@ -2,8 +2,6 @@ cross
 =====
 
 .. autofunction:: ivy.functional.ivy.linear_algebra.cross
-
-.. autofunction:: ivy.array.array_methods.cross
 |
 | **Supported Frameworks:**
 

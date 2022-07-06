@@ -2,10 +2,6 @@ tile
 ====
 
 .. autofunction:: ivy.functional.ivy.manipulation.tile
-
-.. autofunction:: ivy.array.array_methods.tile
-
-.. autofunction:: ivy.container.container_methods.tile
 |
 | **Supported Frameworks:**
 

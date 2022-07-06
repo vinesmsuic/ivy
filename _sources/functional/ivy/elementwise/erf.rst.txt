@@ -2,10 +2,6 @@ erf
 ===
 
 .. autofunction:: ivy.functional.ivy.elementwise.erf
-
-.. autofunction:: ivy.array.array_methods.erf
-
-.. autofunction:: ivy.container.container_methods.erf
 |
 | **Supported Frameworks:**
 

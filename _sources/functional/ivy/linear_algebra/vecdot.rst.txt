@@ -2,8 +2,6 @@ vecdot
 ======
 
 .. autofunction:: ivy.functional.ivy.linear_algebra.vecdot
-
-.. autofunction:: ivy.array.array_methods.vecdot
 |
 | **Supported Frameworks:**
 

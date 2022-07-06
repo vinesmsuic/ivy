@@ -2,8 +2,6 @@ eigvalsh
 ========
 
 .. autofunction:: ivy.functional.ivy.linear_algebra.eigvalsh
-
-.. autofunction:: ivy.array.array_methods.eigvalsh
 |
 | **Supported Frameworks:**
 
